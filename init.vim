@@ -28,6 +28,8 @@ Plug 'https://github.com/preservim/tagbar'
 Plug 'https://github.com/terryma/vim-multiple-cursors'
 Plug 'neovim/nvim-lspconfig'
 Plug 'hrsh7th/nvim-compe'
+Plug 'hesselbom/vim-hsftp'
+Plug 'tpope/vim-fugitive'
 
 call plug#end()
 
